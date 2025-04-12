@@ -1,0 +1,59 @@
+101,Sabritas (Bolsa chica),15.0,40
+102,Galletas Marías Gamesa,12.0,39
+103,Coca-Cola 1.5L,28.0,34
+104,Leche Lala 1L,22.0,24
+105,Pan Bimbo (Blanco chico),35.0,20
+106,Chicles Clorets (Paquete),10.0,60
+107,Atún Dolores (Lata),20.0,30
+108,Sopa Maruchan (Vaso),15.0,45
+109,Frijoles Refritos La Costeña (Lata),18.0,28
+110,Cerveza Corona (Botella 355ml),20.0,50
+111,Azúcar Zulka (1kg),25.0,40
+112,Arroz Verde Valle (1kg),30.0,34
+113,Salsa Valentina (370ml),15.0,45
+114,Mayonesa McCormick (450g),35.0,25
+115,Cloro Cloralex (1L),20.0,30
+116,Papel Higiénico Pétalo (4 rollos),40.0,19
+117,Shampoo Sedal (650ml),50.0,15
+118,Jabón Zote (400g),12.0,50
+119,Detergente Ariel (800g),45.0,25
+120,Crema Nivea (150ml),30.0,20
+121,Refresco Jarritos (600ml),15.0,35
+122,Chocolates Carlos V (Barra),10.0,60
+123,Chicles Trident (Paquete),12.0,50
+124,Helado Holanda (1L),80.0,10
+125,Leche Condensada La Lechera (397g),35.0,25
+126,Harina Maseca (1kg),25.0,30
+127,Sal La Fina (1kg),10.0,40
+128,Huevo San Juan (12 piezas),40.0,20
+129,Queso Crema Philadelphia (190g),25.0,35
+130,Tortillas de Maíz (1kg),20.0,50
+131,Chiles Jalapeños La Costeña (380g),18.0,30
+132,Atún Tuny (Lata),18.0,35
+133,Sardinas Dolores (Lata),20.0,25
+134,Tequila José Cuervo (750ml),250.0,10
+135,Café Soluble Nescafé (200g),90.0,14
+136,Leche Evaporada Carnation (360ml),25.0,30
+137,Churros Ricolino (Bolsa),12.0,40
+138,Paletas Payaso (Unidad),10.0,50
+139,Chocolates Hershey's (Barra),25.0,30
+140,Refresco Pepsi (2L),28.0,35
+141,Agua Bonafont (1L),12.0,50
+142,Jugos Del Valle (800L),20.0,28
+143,Snickers (Barra),15.0,40
+144,Chips Fritos (Bolsa),18.0,35
+145,Pan Molido Bimbo (350g),25.0,25
+146,Pastas La Moderna (200g),10.0,40
+147,Salsa Catsup Heinz (397g),25.0,30
+148,Mostaza French's (226g),20.0,25
+149,Helado Nestlé (1L),85.0,10
+150,Chicles Orbit (Paquete),12.0,48
+151,Refresco Sprite (2L),28.0,35
+152,Agua Ciel (1L),12.0,50
+153,Jugos Jumex (1L),20.0,30
+154,Chocolates Ferrero Rocher (Caja 8 piezas),90.0,15
+155,Panqué Marinela (Unidad),15.0,40
+156,Churrumais (Bolsa),12.0,50
+157,Polvo para Agua Tang (Paquete),10.0,40
+158,Crema Lala (450ml),30.0,25
+160,Galletas Emperador (Paquete),15.0,50
